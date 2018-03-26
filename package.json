@@ -1,0 +1,24 @@
+{
+  "name": "node-api-rest-core",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoOliva/node-api-rest-core.git"
+  },
+  "author": "Leo Oliva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoOliva/node-api-rest-core/issues"
+  },
+  "homepage": "https://github.com/LeoOliva/node-api-rest-core#readme",
+  "dependencies": {
+    "html-to-text": "^4.0.0",
+    "mjml-utils": "^2.2.1",
+    "nodemailer": "^4.6.3"
+  }
+}
