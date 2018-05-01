@@ -8,6 +8,9 @@ console.log(res.getStatusText(404));
 console.log('res.getStatus(2000)');
 console.log(res.getStatusText(2000));
 console.log('------------------------');
+console.log('------------------------');
+console.log('Format')
+console.log('------------------------');
 console.log(res.format(
     { //Información relativa a la petición
 
